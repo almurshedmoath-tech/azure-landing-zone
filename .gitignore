@@ -1,0 +1,13 @@
+# Local parameter files that may hold secrets
+*.local.bicepparam
+*.local.json
+
+# Azure deployment output
+.azure/
+
+# VS Code personal settings
+.vscode/
+
+# Windows and macOS clutter
+Thumbs.db
+.DS_Store
